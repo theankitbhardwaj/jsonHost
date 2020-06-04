@@ -2,6 +2,7 @@
 {
 	"imgUrl" : "url",
 	"name" :  "Pizza",
-	"price" :  "200"
+	"rating" : "4.0"
+	"price" :  "150"
 }
 ]
