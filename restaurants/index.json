@@ -4,15 +4,19 @@
 	"name" :  "Starbucks"
 },
 {
-	"imgUrl" : "https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
-	"name" :  "Starbucks"
+	"imgUrl" : "https://penji.co/wp-content/uploads/2019/03/dominos-pizza.jpg",
+	"name" :  "Domino's"
 },
 {
-	"imgUrl" : "https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
-	"name" :  "Starbucks"
+	"imgUrl" : "https://penji.co/wp-content/uploads/2019/03/mcdonalds.png",
+	"name" :  "McDonals's"
 },
 {
-	"imgUrl" : "https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
-	"name" :  "Starbucks"
+	"imgUrl" : "https://www.logo-company.in/logo/best-logo-designer-company-516.jpg",
+	"name" :  "Chennai Express"
+},
+{
+	"imgUrl" : "https://www.logo-company.in/logo/best-logo-designer-company-451.jpg",
+	"name" :  "Eats & Treats"
 }
 ]

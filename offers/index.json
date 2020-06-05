@@ -5,13 +5,13 @@
 	"offerCondition" : "on First 2 Orders"
 },
 {
-	"imgUrl" : "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&auto=format&fit=crop&w=714&q=80",
-	"offer" :  "Get 50% discount",
-	"offerCondition" : "on First 2 Orders"
+	"imgUrl" : "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+	"offer" :  "Buy 1 Get 1",
+	"offerCondition" : "from Burger Wala"
 },
 {
-	"imgUrl" : "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&auto=format&fit=crop&w=714&q=80",
-	"offer" :  "Get 50% discount",
-	"offerCondition" : "on First 2 Orders"
+	"imgUrl" : "https://b.zmtcdn.com/data/pictures/0/18377630/ed32ced9d7739190b0a7554a10acda0e.jpg?output-format=webp",
+	"offer" :  "New Flavours Added",
+	"offerCondition" : "From Havmor "
 }
 ]
