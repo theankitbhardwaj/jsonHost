@@ -2,6 +2,57 @@
 {
 	"imgUrl" : "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&auto=format&fit=crop&w=714&q=80",
 	"name" :  "Pizza",
-	"price" :  "200"
+	"rating" : "4.0",
+	"desc" : "Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients.",
+	"price" :  "150",
+	"quantity" : "&#8226&emsp;Medium Size."
+},
+{
+	"imgUrl" : "https://images.unsplash.com/photo-1589301773859-bb024d3ad558?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+	"name" :  "Samosa",
+	"rating" : "4.8",
+	"desc" : "The samosa is a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas.",
+	"price" :  "50",
+	"quantity" : "&#8226&emsp;2 pieces."
+},
+{
+	"imgUrl" : "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+	"name" :  "Fried Rice",
+	"rating" : "4.5",
+	"desc" : "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as vegetables. It is often eaten by itself or as an accompaniment to another dish.",
+	"price" :  "120",
+	"quantity" : "&#8226&emsp;500 gm."
+},
+{
+	"imgUrl" : "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+	"name" :  "Pasta",
+	"rating" : "4.1",
+	"desc" : "Pasta is a type of food made from a mixture of flour and water that is formed into different shapes and then boiled. Spaghetti, macaroni, and noodles are types of pasta.",
+	"price" :  "150",
+	"quantity" : "&#8226&emsp;1 plate."
+},
+{
+	"imgUrl" : "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+	"name" :  "Idli",
+	"rating" : "4.3",
+	"desc" : "Idli is a type of savoury rice cake, originating from the Indian subcontinent, popular as breakfast food in Southern India and among Tamils in Sri Lanka.",
+	"price" :  "75",
+	"quantity" : "&#8226&emsp;3 pieces."
+},
+{
+	"imgUrl" : "https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+	"name" :  "Thali",
+	"rating" : "4.5",
+	"desc" : "Indian style thali with 1 sabzi, 1 dal, raita and 4 butter rotis.",
+	"price" :  "150",
+	"quantity" : "&#8226&emsp;1 plate."
+},
+{
+	"imgUrl" : "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+	"name" :  "Croissant",
+	"rating" : "4.2",
+	"desc" : "A croissant is a laminated, yeast-leavened bakery product that contains dough/roll-in fat layers to create a flaky, crispy texture.",
+	"price" :  "100",
+	"quantity" : "&#8226&emsp;4 pieces."
 }
 ]
